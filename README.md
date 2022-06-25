@@ -1,2 +1,2 @@
 # Terminal
-bash / git bash / linux terminal
+*bash / git bash / linux terminal*
